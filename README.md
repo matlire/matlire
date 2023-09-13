@@ -1,1 +1,8 @@
-My name's Matthew. I am a developer. I'm interested in new technologies. I know about working with arduino. I know python, c++, html, css. Also I used to work with assembly, computer vision and AI.
+Hi, my name's Matthew, I'm a developer! Here u can find my life & my code. And what's your name?
+
+I'm a developer, interested in new technologies! My main programming languages are python and C++. Also I know html&css&js.
+
+You can find me here:
+- GitHub
+- Instagram: https://github.com/matlire
+- Telegram https://t.me/mrMatlire
