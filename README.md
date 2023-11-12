@@ -6,6 +6,6 @@ Of course I'm fond of chess;)
 
 You can find me here:
 - [GitHub](https://github.com/matlire)
-- [Instagram](https://github.com/matlire)
+- [Instagram](https://www.instagram.com/mr.matlire/)
 - [Telegram](https://t.me/mrMatlire)
 - [LiChess](https://lichess.org/@/matlire)
