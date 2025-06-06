@@ -11,40 +11,134 @@
 
 <table style="width:100%; border-collapse: collapse; font-family:Segoe UI,Tahoma,Geneva,Verdana,sans-serif;">
   <tr>
-    <th style="background-color:#24292e; color:white; text-align:left; padding:12px; font-size:18px;">Category</th>
-    <th style="background-color:#24292e; color:white; text-align:left; padding:12px; font-size:18px;">Skills</th>
+    <th style="background-color:#24292e; color:white; padding:12px; font-size:18px;">Backend</th>
+    <th style="background-color:#24292e; color:white; padding:12px; font-size:18px;">Frontend</th>
+    <th style="background-color:#24292e; color:white; padding:12px; font-size:18px;">AI</th>
+    <th style="background-color:#24292e; color:white; padding:12px; font-size:18px;">Web3</th>
+    <th style="background-color:#24292e; color:white; padding:12px; font-size:18px;">Low Level</th>
+    <th style="background-color:#24292e; color:white; padding:12px; font-size:18px;">Embedded</th>
+    <th style="background-color:#24292e; color:white; padding:12px; font-size:18px;">Game Engines</th>
+    <th style="background-color:#24292e; color:white; padding:12px; font-size:18px;">Misc</th>
   </tr>
-  <tr style="background-color:#f6f8fa;" onmouseover="this.style.backgroundColor='#e1e4e8'" onmouseout="this.style.backgroundColor='#f6f8fa'">
-    <td style="padding:12px; font-size:16px;">Backend</td>
-    <td style="padding:12px; font-size:16px;">FastAPI (Python), Gin (Go), Postgres, MySQL, Oracle, Redis, Docker, Kubernetes, AWS, MinIO, Nginx, Node.js, Kafka</td>
-  </tr>
-  <tr style="background-color:#f6f8fa;" onmouseover="this.style.backgroundColor='#e1e4e8'" onmouseout="this.style.backgroundColor='#f6f8fa'">
-    <td style="padding:12px; font-size:16px;">Frontend</td>
-    <td style="padding:12px; font-size:16px;">React, Vue.js, HTML + CSS, Bootstrap, Tailwind</td>
-  </tr>
-  <tr style="background-color:#f6f8fa;" onmouseover="this.style.backgroundColor='#e1e4e8'" onmouseout="this.style.backgroundColor='#f6f8fa'">
-    <td style="padding:12px; font-size:16px;">AI / Data</td>
-    <td style="padding:12px; font-size:16px;">OpenCV, TensorFlow, PyTorch, Scikit-learn, Pandas</td>
-  </tr>
-  <tr style="background-color:#f6f8fa;" onmouseover="this.style.backgroundColor='#e1e4e8'" onmouseout="this.style.backgroundColor='#f6f8fa'">
-    <td style="padding:12px; font-size:16px;">Web3</td>
+  <tr onmouseover="this.style.backgroundColor='#e1e4e8'" onmouseout="this.style.backgroundColor='white'">
+    <td style="padding:12px; font-size:16px;">FastAPI (Python)</td>
+    <td style="padding:12px; font-size:16px;">React</td>
+    <td style="padding:12px; font-size:16px;">OpenCV</td>
     <td style="padding:12px; font-size:16px;">TON Func</td>
+    <td style="padding:12px; font-size:16px;">Asm x86</td>
+    <td style="padding:12px; font-size:16px;">Arduino</td>
+    <td style="padding:12px; font-size:16px;">Unity</td>
+    <td style="padding:12px; font-size:16px;">.NET</td>
   </tr>
-  <tr style="background-color:#f6f8fa;" onmouseover="this.style.backgroundColor='#e1e4e8'" onmouseout="this.style.backgroundColor='#f6f8fa'">
-    <td style="padding:12px; font-size:16px;">Low-Level</td>
-    <td style="padding:12px; font-size:16px;">ASM x86, C</td>
+  <tr onmouseover="this.style.backgroundColor='#e1e4e8'" onmouseout="this.style.backgroundColor='white'">
+    <td style="padding:12px; font-size:16px;">Gin (Go)</td>
+    <td style="padding:12px; font-size:16px;">Vue.js</td>
+    <td style="padding:12px; font-size:16px;">TensorFlow</td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;">C</td>
+    <td style="padding:12px; font-size:16px;">STM32</td>
+    <td style="padding:12px; font-size:16px;">Unreal Engine</td>
+    <td style="padding:12px; font-size:16px;">Sockets</td>
   </tr>
-  <tr style="background-color:#f6f8fa;" onmouseover="this.style.backgroundColor='#e1e4e8'" onmouseout="this.style.backgroundColor='#f6f8fa'">
-    <td style="padding:12px; font-size:16px;">Embedded</td>
-    <td style="padding:12px; font-size:16px;">Arduino, STM32</td>
+  <tr onmouseover="this.style.backgroundColor='#e1e4e8'" onmouseout="this.style.backgroundColor='white'">
+    <td style="padding:12px; font-size:16px;">Postgres</td>
+    <td style="padding:12px; font-size:16px;">HTML + CSS</td>
+    <td style="padding:12px; font-size:16px;">PyTorch</td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
   </tr>
-  <tr style="background-color:#f6f8fa;" onmouseover="this.style.backgroundColor='#e1e4e8'" onmouseout="this.style.backgroundColor='#f6f8fa'">
-    <td style="padding:12px; font-size:16px;">Game Engines</td>
-    <td style="padding:12px; font-size:16px;">Unity, Unreal Engine</td>
+  <tr onmouseover="this.style.backgroundColor='#e1e4e8'" onmouseout="this.style.backgroundColor='white'">
+    <td style="padding:12px; font-size:16px;">MySQL</td>
+    <td style="padding:12px; font-size:16px;">Bootstrap</td>
+    <td style="padding:12px; font-size:16px;">Scikit-learn</td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
   </tr>
-  <tr style="background-color:#f6f8fa;" onmouseover="this.style.backgroundColor='#e1e4e8'" onmouseout="this.style.backgroundColor='#f6f8fa'">
-    <td style="padding:12px; font-size:16px;">Misc</td>
-    <td style="padding:12px; font-size:16px;">.NET, Sockets</td>
+  <tr onmouseover="this.style.backgroundColor='#e1e4e8'" onmouseout="this.style.backgroundColor='white'">
+    <td style="padding:12px; font-size:16px;">Oracle</td>
+    <td style="padding:12px; font-size:16px;">Tailwind</td>
+    <td style="padding:12px; font-size:16px;">Pandas</td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+  </tr>
+  <tr onmouseover="this.style.backgroundColor='#e1e4e8'" onmouseout="this.style.backgroundColor='white'">
+    <td style="padding:12px; font-size:16px;">Redis</td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+  </tr>
+  <tr onmouseover="this.style.backgroundColor='#e1e4e8'" onmouseout="this.style.backgroundColor='white'">
+    <td style="padding:12px; font-size:16px;">Docker</td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+  </tr>
+  <tr onmouseover="this.style.backgroundColor='#e1e4e8'" onmouseout="this.style.backgroundColor='white'">
+    <td style="padding:12px; font-size:16px;">Kubernetes</td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+  </tr>
+  <tr onmouseover="this.style.backgroundColor='#e1e4e8'" onmouseout="this.style.backgroundColor='white'">
+    <td style="padding:12px; font-size:16px;">AWS / MinIO</td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+  </tr>
+  <tr onmouseover="this.style.backgroundColor='#e1e4e8'" onmouseout="this.style.backgroundColor='white'">
+    <td style="padding:12px; font-size:16px;">Nginx</td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+  </tr>
+  <tr onmouseover="this.style.backgroundColor='#e1e4e8'" onmouseout="this.style.backgroundColor='white'">
+    <td style="padding:12px; font-size:16px;">Node.js</td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+  </tr>
+  <tr onmouseover="this.style.backgroundColor='#e1e4e8'" onmouseout="this.style.backgroundColor='white'">
+    <td style="padding:12px; font-size:16px;">Kafka</td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;"></td>
   </tr>
 </table>
 
