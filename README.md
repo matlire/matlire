@@ -3,7 +3,11 @@
 
 - 🌱 I’m currently studying **at MIPT**
 
+- ✍️ Checkout my telegram channel: **https://t.me/matlire_dev**
+
 - 📫 Reach me via **https://t.me/matlire**
+
+- 💵 Donate me here: **https://www.donationalerts.com/r/matlire_dev**
 
 - ⚡ Fun fact: **I love guinea pigs**
 
