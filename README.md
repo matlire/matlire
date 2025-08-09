@@ -43,7 +43,7 @@
     <td style="padding:12px; font-size:16px;">HTML + CSS</td>
     <td style="padding:12px; font-size:16px;">PyTorch</td>
     <td style="padding:12px; font-size:16px;"></td>
-    <td style="padding:12px; font-size:16px;"></td>
+    <td style="padding:12px; font-size:16px;">CPP</td>
     <td style="padding:12px; font-size:16px;"></td>
     <td style="padding:12px; font-size:16px;"></td>
     <td style="padding:12px; font-size:16px;"></td>
