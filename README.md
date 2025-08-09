@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matthew</h1>
 <h3 align="left">I'm computer science student, cybersecurity enthusiast. I love CTFs and writing low level things. 🔐🧑‍💻</h3>
 
-- 🌱 I’m currently studying **at MIPT**
-
-- ✍️ Checkout my telegram channel: **https://t.me/matlire_dev**
-
-- 📫 Reach me via **https://t.me/matlire**
-
-- 💵 Donate me here: **https://www.donationalerts.com/r/matlire_dev**
+- 🌱 I’m currently studying **at MIPT** (1st year)
 
 - ⚡ Fun fact: **I love guinea pigs**
 
@@ -29,7 +23,7 @@
     <td style="padding:12px; font-size:16px;">React</td>
     <td style="padding:12px; font-size:16px;">OpenCV</td>
     <td style="padding:12px; font-size:16px;">TON Func</td>
-    <td style="padding:12px; font-size:16px;">Asm x86</td>
+    <td style="padding:12px; font-size:16px;">C</td>
     <td style="padding:12px; font-size:16px;">Arduino</td>
     <td style="padding:12px; font-size:16px;">Unity</td>
     <td style="padding:12px; font-size:16px;">.NET</td>
@@ -39,8 +33,8 @@
     <td style="padding:12px; font-size:16px;">Vue.js</td>
     <td style="padding:12px; font-size:16px;">TensorFlow</td>
     <td style="padding:12px; font-size:16px;"></td>
-    <td style="padding:12px; font-size:16px;">C</td>
-    <td style="padding:12px; font-size:16px;">STM32</td>
+    <td style="padding:12px; font-size:16px;">Nasm asm</td>
+    <td style="padding:12px; font-size:16px;"></td>
     <td style="padding:12px; font-size:16px;">Unreal Engine</td>
     <td style="padding:12px; font-size:16px;">Sockets</td>
   </tr>
